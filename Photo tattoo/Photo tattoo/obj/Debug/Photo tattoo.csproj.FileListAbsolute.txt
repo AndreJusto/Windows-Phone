@@ -1,0 +1,21 @@
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\Bin\Debug\Photo tattoo.dll
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\Bin\Debug\Photo tattoo.pdb
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\Bin\Debug\AppManifest.xaml
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\Bin\Debug\Photo_tattoo_Debug_AnyCPU.xap
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\obj\Debug\App.g.cs
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\obj\Debug\CadastraPhotos.g.cs
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\obj\Debug\Feeds.g.cs
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\obj\Debug\MainPage.g.cs
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\obj\Debug\Photo tattoo.g.resources
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\obj\Debug\Photo_tattoo.Resources.AppResources.resources
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\obj\Debug\Photo tattoo.csproj.GenerateResource.Cache
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\obj\Debug\Photo tattoo.dll
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\obj\Debug\Photo tattoo.pdb
+C:\Users\Andre\documents\visual studio 2013\Projects\Photo tattoo\Photo tattoo\obj\Debug\XapCacheFile.xml
